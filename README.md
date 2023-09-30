@@ -1,2 +1,2 @@
-# fanta
+# Fanta Animation
 
